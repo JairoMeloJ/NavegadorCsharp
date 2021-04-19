@@ -1,0 +1,13 @@
+C:\Users\Servidor\source\repos\NavegadorC\NavegadorC\bin\Debug\NavegadorC.exe.config
+C:\Users\Servidor\source\repos\NavegadorC\NavegadorC\bin\Debug\NavegadorC.exe
+C:\Users\Servidor\source\repos\NavegadorC\NavegadorC\bin\Debug\NavegadorC.pdb
+C:\Users\Servidor\source\repos\NavegadorC\NavegadorC\obj\Debug\NavegadorC.csprojAssemblyReference.cache
+C:\Users\Servidor\source\repos\NavegadorC\NavegadorC\obj\Debug\NavegadorC.Form1.resources
+C:\Users\Servidor\source\repos\NavegadorC\NavegadorC\obj\Debug\NavegadorC.Properties.Resources.resources
+C:\Users\Servidor\source\repos\NavegadorC\NavegadorC\obj\Debug\NavegadorC.csproj.GenerateResource.cache
+C:\Users\Servidor\source\repos\NavegadorC\NavegadorC\obj\Debug\NavegadorC.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\source\repos\NavegadorC\NavegadorC\obj\Debug\NavegadorC.exe
+C:\Users\Servidor\source\repos\NavegadorC\NavegadorC\obj\Debug\NavegadorC.pdb
+C:\Users\Servidor\source\repos\NavegadorC\NavegadorC\bin\Debug\es\NavegadorC.resources.dll
+C:\Users\Servidor\source\repos\NavegadorC\NavegadorC\obj\Debug\NavegadorC.Form1.es.resources
+C:\Users\Servidor\source\repos\NavegadorC\NavegadorC\obj\Debug\es\NavegadorC.resources.dll
